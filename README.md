@@ -1,2 +1,2 @@
 # ilkrepo
-online yeni satır
+local yeni satır

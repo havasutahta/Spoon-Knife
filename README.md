@@ -1,2 +1,2 @@
 # ilkrepo
-yeni satır
+local yeni satır
